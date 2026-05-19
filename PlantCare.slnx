@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PlantCare.Api/PlantCare.Api.csproj" />
+  <Project Path="PlantCare.Application/PlantCare.Application.csproj" />
+  <Project Path="PlantCare.Domain/PlantCare.Domain.csproj" />
+  <Project Path="PlantCare.Infrastructure/PlantCare.Infrastructure.csproj" />
+  <Project Path="PlantCare.UnitTests/PlantCare.UnitTests.csproj" />
+</Solution>
